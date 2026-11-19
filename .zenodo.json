@@ -1,6 +1,6 @@
 {
-  "title": "RatiometricCaImagingSingleTimepoint: MATLAB analysis routine for ratiometric Fluo-4/Fura-Red calcium imaging",
-  "description": "MATLAB routine for ratiometric intracellular calcium analysis of single-timepoint confocal images using the Fluo-4 / Fura-Red dye pair. Performs automated cell segmentation by thresholding and distance-transform watershed, background-corrected fluorescence quantification on raw channel data, and per-cell export of the Fluo-4/Fura-Red intensity ratio together with morphological descriptors. Written by Nicole Suzanne Sarna, Department of Bioengineering, Rice University (laboratory of Dr. Michael R. King).",
+  "title": "RatiometricCaImagingSingleTimepoint: MATLAB analysis program for ratiometric Fluo-4/Fura-Red calcium imaging",
+  "description": "MATLAB program for ratiometric intracellular calcium analysis of single-timepoint confocal images using the Fluo-4 / Fura-Red dye pair. Performs automated cell segmentation by thresholding and distance-transform watershed, background-corrected fluorescence quantification on raw channel data, and per-cell export of the Fluo-4/Fura-Red intensity ratio together with morphological descriptors. Written by Nicole Suzanne Sarna, Department of Bioengineering, Rice University (laboratory of Dr. Michael R. King).",
   "upload_type": "software",
   "license": "cc-by-4.0",
   "creators": [
