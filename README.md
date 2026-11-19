@@ -18,16 +18,16 @@ Written April 30, 2026; last updated May 20, 2026.
 
 If you use this software, or data produced with it, please cite:
 
-> Sarna, N. S. (2026). *RatiometricCaImagingSingleTimepoint: MATLAB analysis routine
-> for ratiometric Fluo-4/Fura-Red calcium imaging* (Version 1.0.0) [Computer software].
-> Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Sarna, N. S. (2026). *RatiometricCaImagingSingleTimepoint: MATLAB analysis program
+> for ratiometric Fluo-4/Fura-Red calcium imaging* (Version 1.0.1) [Computer software].
+> Zenodo. https://doi.org/10.5281/zenodo.24380711
 
 Suggested methods-section language:
 
 > Ratiometric calcium measurements were obtained using a custom MATLAB image analysis program written by
 > N. S. Sarna (King Laboratory, Department of Bioengineering, Rice University), which performs
 > automated cell segmentation and background-corrected quantification of Fluo-4 and Fura-Red
-> fluorescence intensity (doi:10.5281/zenodo.XXXXXXX).
+> fluorescence intensity (doi:10.5281/zenodo.24380711).
 
 ## Provenance
 

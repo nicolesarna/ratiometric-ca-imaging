@@ -5,7 +5,7 @@
 %               (Laboratory of Dr. Michael R. King)
 % Date Created: April 30th, 2026
 % Last Updated: May 20th, 2026
-% Version:      1.0.0
+% Version:      1.0.1
 %
 % Adapted from: TCellAnalysis (N. S. Sarna)
 %               https://github.com/nicolesarna/TCellAnalysis
@@ -18,13 +18,13 @@
 % this file, and credit the author in any thesis, presentation, or publication
 % reporting results produced with it.
 %
-% Archived at:  https://doi.org/10.5281/zenodo.XXXXXXX
+% Archived at:  https://doi.org/10.5281/zenodo.24380711
 % Source:       https://github.com/nicolesarna/ratiometric-ca-imaging
 %
 % If you use this software, or data produced with it, please cite:
 %   Sarna, N. S. (2026). RatiometricCaImagingSingleTimepoint: MATLAB analysis
-%   routine for ratiometric Fluo-4/Fura-Red calcium imaging (Version 1.0.0)
-%   [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+%   program for ratiometric Fluo-4/Fura-Red calcium imaging (Version 1.0.1)
+%   [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24380711
 %
 % Use for ratiometric calcium imaging with single-timepoint snaps
 % Code expects .czi file with 2 channels: Fluo-4 ch1 and FuraRed ch2 

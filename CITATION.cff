@@ -13,8 +13,12 @@ authors:
     given-names: "Nicole S."
     affiliation: "Department of Bioengineering, Rice University"
     orcid: "https://orcid.org/0000-0002-5643-5850"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-11-19"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24380711"
+    description: "Concept DOI - resolves to the latest version"
 repository-code: "https://github.com/nicolesarna/ratiometric-ca-imaging"
 keywords:
   - calcium imaging
