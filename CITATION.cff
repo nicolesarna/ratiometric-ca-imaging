@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "RatiometricCaImagingSingleTimepoint"
+abstract: >-
+  MATLAB program for ratiometric intracellular calcium analysis of single-timepoint
+  confocal images using the Fluo-4 / Fura-Red dye pair. Performs automated cell
+  segmentation by thresholding and distance-transform watershed, background-corrected
+  fluorescence quantification on raw channel data, and per-cell export of the
+  Fluo-4/Fura-Red intensity ratio together with morphological descriptors.
+type: software
+authors:
+  - family-names: "Sarna"
+    given-names: "Nicole S."
+    affiliation: "Department of Bioengineering, Rice University"
+    orcid: "https://orcid.org/0000-0002-5643-5850"
+version: "1.0.0"
+date-released: "2026-11-19"
+repository-code: "https://github.com/nicolesarna/ratiometric-ca-imaging"
+keywords:
+  - calcium imaging
+  - ratiometric
+  - Fluo-4
+  - Fura-Red
+  - image segmentation
+  - MATLAB
+  - confocal microscopy
+references:
+  - type: article
+    title: "Enhanced and sustained T cell activation in response to fluid shear stress"
+    authors:
+      - family-names: "Sarna"
+        given-names: "Nicole S."
+      - family-names: "Desai"
+        given-names: "Shanay H."
+      - family-names: "Kaufman"
+        given-names: "Benjamin G."
+      - family-names: "Curry"
+        given-names: "Natalie M."
+      - family-names: "Hanna"
+        given-names: "Anne M."
+      - family-names: "King"
+        given-names: "Michael R."
+    journal: "iScience"
+    volume: 27
+    issue: 6
+    year: 2024
+    doi: "10.1016/j.isci.2024.109999"
